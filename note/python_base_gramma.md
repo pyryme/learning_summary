@@ -1,6 +1,6 @@
 # code文件
 
-> QG寒假学习笔记
+> QG寒假学习笔记，这个是老版本的，所以排版有点问题还没有改
 
 - 学会jupyter，用git将GitHub和本地仓库连接，学会markdown语言
 
